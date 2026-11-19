@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/riya18riya/Leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/riya18riya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/riya18riya/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/riya18riya/Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/riya18riya/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riya18riya/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/riya18riya/Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/riya18riya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/riya18riya/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/riya18riya/Leetcode/tree/master/0509-fibonacci-number) |
 ## Manacher
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/riya18riya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/riya18riya/Leetcode/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
