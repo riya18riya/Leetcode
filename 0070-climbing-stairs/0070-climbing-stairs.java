@@ -1,21 +1,21 @@
 class Solution {
     public int climbStairs(int n) {
 
-        /*if (n == 1) {    // optimized O(n)
+        if (n == 1) {    // optimized O(n)
             return 1;
         }
 
-        int prev2 = 1;
-        int prev1 = 2;
+        int prev1 = 1;
+        int prev = 2;
 
         for (int i = 3; i <= n; i++) {
-            int current = prev1 + prev2;
+            int current = prev + prev1;
 
-            prev2 = prev1;
-            prev1 = current;
+            prev1 = prev;
+            prev = current;
         }
 
-        return prev1;*/
+        return prev;
 
 
 
@@ -27,7 +27,7 @@ class Solution {
         }
         return climbStairs(n - 1) + climbStairs(n - 2); // FIBONACCI RECURRENCE  */
 
-        if(n <= 2){
+        /*if(n <= 2){
             return n;
         }
 
@@ -40,7 +40,7 @@ class Solution {
         for(int i = 3; i <= n; i++){
             dp[i] = dp[i-1] + dp[i-2];
         }
-        return dp[n];
+        return dp[n]; */
 
     }
 }
