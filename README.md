@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/riya18riya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/riya18riya/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/riya18riya/Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/riya18riya/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/riya18riya/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/riya18riya/Leetcode/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/riya18riya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/riya18riya/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/riya18riya/Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/riya18riya/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Manacher
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/riya18riya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/riya18riya/Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/riya18riya/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Trie
 |  |
 | ------- |
