@@ -32,7 +32,6 @@ class Solution {
         /*if(n <= 2){              //T=O(n) S=0(n)
             return n;
         }*/
-
         if(n == 0) return 1;
         if(n <= 2) return n;
 
