@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/riya18riya/Leetcode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/riya18riya/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/riya18riya/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/riya18riya/Leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/riya18riya/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/riya18riya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/riya18riya/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/riya18riya/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/riya18riya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/riya18riya/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/riya18riya/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/riya18riya/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/riya18riya/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Manacher
