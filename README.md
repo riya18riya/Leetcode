@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/riya18riya/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/riya18riya/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/riya18riya/Leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/riya18riya/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/riya18riya/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/riya18riya/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/riya18riya/Leetcode/tree/master/0078-subsets) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/riya18riya/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/riya18riya/Leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/riya18riya/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/riya18riya/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/riya18riya/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/riya18riya/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riya18riya/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/riya18riya/Leetcode/tree/master/0022-generate-parentheses) |
+| [0064-minimum-path-sum](https://github.com/riya18riya/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/riya18riya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/riya18riya/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/riya18riya/Leetcode/tree/master/0198-house-robber) |
