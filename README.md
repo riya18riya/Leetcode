@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/riya18riya/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/riya18riya/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/riya18riya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/riya18riya/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/riya18riya/Leetcode/tree/master/0509-fibonacci-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riya18riya/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/riya18riya/Leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/riya18riya/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/riya18riya/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/riya18riya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/riya18riya/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/riya18riya/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/riya18riya/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/riya18riya/Leetcode/tree/master/0216-combination-sum-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/riya18riya/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
